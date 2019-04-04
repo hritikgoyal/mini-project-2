@@ -1,0 +1,4 @@
+tkinter
+vadersentiment
+speech recognition
+moviepy
